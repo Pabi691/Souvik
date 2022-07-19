@@ -500,3 +500,7 @@ header .navbar ul li a:hover{
 #years-of-experience li{
   padding-bottom: 10px;
 }
+.top img{
+  width: 10%;
+  margin-left: 95%;
+}
